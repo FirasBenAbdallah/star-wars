@@ -46,7 +46,7 @@ Run the application on your emulator or physical device. The main screen present
 
 ## Contributing
 
-Contributions are welcome and will help to further develop this project. Please read `CONTRIBUTING.md` for details on our code of conduct, and the process for submitting pull requests to us.
+Contributions are welcome and will help to further develop this project. Please read [CONTRIBUTING.md](CONTRIBUTING) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## License
 
