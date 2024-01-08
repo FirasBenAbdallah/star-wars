@@ -1,4 +1,3 @@
-````markdown
 # Star Wars App for Think IT
 
 This is a Flutter application dedicated to the members and fans of the Think IT . It provides a list of Star Wars movies, along with detailed information about each film.
@@ -16,7 +15,6 @@ This is a Flutter application dedicated to the members and fans of the Think IT 
 ```bash
 git clone https://github.com/yourusername/star_wars_think_it.git
 ```
-````
 
 2. Navigate to the project directory:
 
@@ -63,7 +61,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 
 - Project Repository: https://github.com/FirasBenAbdallah/star-wars.git
 - My LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/firas-ben-abdallah-614126239/)
-
-```
-
-```
