@@ -13,7 +13,7 @@ This is a Flutter application dedicated to the members and fans of the Think IT 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/star_wars_think_it.git
+git clone https://github.com/FirasBenAbdallah/star-wars.git
 ```
 
 2. Navigate to the project directory:
