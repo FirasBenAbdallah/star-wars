@@ -19,7 +19,7 @@ git clone https://github.com/FirasBenAbdallah/star-wars.git
 2. Navigate to the project directory:
 
 ```bash
-cd star_wars_think_it
+cd star-wars
 ```
 
 3. Fetch the latest version of Flutter:
